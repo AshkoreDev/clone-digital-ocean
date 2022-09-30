@@ -1,11 +1,8 @@
 ## Instalar dependencias.
 
-npm install -D tailwindcss postcss autoprefixer vite
+npm install -D tailwindcss postcss autoprefixer
 
 
-## Crear archivos de configuración de tailwindcss y postcss
+## Crear archivos de configuración de tailwindcss y postcss.
 
 npx tailwindcss init -p
-
-
-## 
